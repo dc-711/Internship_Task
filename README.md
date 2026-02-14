@@ -27,33 +27,7 @@ NumPy – numerical operations
 
 Matplotlib / Seaborn – data visualization
 
-Scikit-learn – data splitting and modeling (if applicable)
-
 Jupyter Notebook – development environment
-
-📂 Dataset Description
-
-The dataset contains the following columns:
-
-Text – textual data (reviews/comments)
-
-Sentiment – sentiment label (Positive, Negative, Neutral)
-
-Timestamp – date and time of the entry
-
-User – user identifier
-
-Platform – source platform
-
-Hashtags – associated hashtags
-
-Retweets – number of retweets
-
-Likes – number of likes
-
-Country – country of origin
-
-Year, Month, Day, Hour – extracted time features
 
 🔄 Steps Performed
 
@@ -83,7 +57,7 @@ Platform and country-based analysis
 
 Visualization of key trends
 
-Modeling (Optional)
+Modeling 
 
 Train-test split
 
